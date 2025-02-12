@@ -1,7 +1,7 @@
 <h1>OpenFace++</h1>
 
 <h2>Introduction</h2>
-OpenFace++ was created for my diploma <a href="https://drive.google.com/open?id=0B-6rsj6uHlolcml6S3NDdm9BQlE">thesis</a>. It is based on the original <a href="https://github.com/TadasBaltrusaitis/OpenFace">OpenFace</a> codebase from August 2016. OpenFace++ contains several modifications and extensions described below.
+OpenFace++ was created for my diploma <a href="https://drive.google.com/file/d/0B-6rsj6uHlolcml6S3NDdm9BQlE/view?usp=sharing&resourcekey=0-LHcb6tKBHsOFe0-8GQDphA">thesis</a>. It is based on the original <a href="https://github.com/TadasBaltrusaitis/OpenFace">OpenFace</a> codebase from August 2016. OpenFace++ contains several modifications and extensions described below.
 
 <hr/>
 <h2>Comparison to OpenFace</h2>
@@ -40,13 +40,13 @@ For more detailed information please refer to the thesis document.
 <td>FaceSensor</td>
 <td>Windows</td>
 <td>ZIP</td>
-<td><a href="https://drive.google.com/open?id=0B-6rsj6uHlolb2t2eVVPYW12aHM">Link</a></td>
+<td><a href="https://drive.google.com/file/d/0B-6rsj6uHlolb2t2eVVPYW12aHM/view?usp=sharing&resourcekey=0-5_eQNbXgh_B81B1NGP-yIQ">Link</a></td>
 </tr>
 <tr>
 <td>OpenFaceAndroid</td>
 <td>Android 4.4+</td>
 <td>APK</td>
-<td><a href="https://drive.google.com/open?id=0B-6rsj6uHlolMDZ2aDZqaTZ0aDg">Link</a></td>
+<td><a href="https://drive.google.com/file/d/0B-6rsj6uHlolMDZ2aDZqaTZ0aDg/view?usp=sharing&resourcekey=0-Mx98lT3H2Lj5acL6p-HoAA">Link</a></td>
 </tr>
 </table>
 
